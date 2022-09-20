@@ -133,5 +133,5 @@ Scripts/
 pyvenv.cfg
 
 static/
-yatube/posts/static/
-yatube/media/
+diary/posts/static/
+diary/media/
