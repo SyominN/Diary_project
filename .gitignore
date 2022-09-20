@@ -131,6 +131,7 @@ dmypy.json
 Lib/
 Scripts/
 pyvenv.cfg
+
 static/
-static/css/
-static/img/g
+yatube/posts/static/
+yatube/media/
