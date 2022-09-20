@@ -128,3 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
+Lib/
+Scripts/
+pyvenv.cfg
+static/
+static/css/
+static/img/g
